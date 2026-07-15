@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/github/v/release/kolapraneeth22/iriscrawl-studio?style=for-the-badge&color=00EFFF&labelColor=131313&logo=github" alt="Latest Release" />
   </a>
   <a href="https://github.com/kolapraneeth22/iriscrawl-studio/releases">
-    <img src="https://img.shields.io/github/downloads/kolapraneeth22/iriscrawl-studio/total?style=for-the-badge&color=00EFFF&labelColor=131313&logo=icloud" alt="Total Downloads" />
-  </a>
+    <img src="https://img.shields.io/github/downloads/kolapraneeth22/iriscrawl-studio/all/total?style=for-the-badge&color=00EFFF&labelColor=131313&logo=icloud" alt="Total Downloads" />
+</a>
   <br />
   <a href="https://github.com/kolapraneeth22/iriscrawl-studio/stargazers">
     <img src="https://img.shields.io/github/stars/kolapraneeth22/iriscrawl-studio?style=social" alt="GitHub stars" />
