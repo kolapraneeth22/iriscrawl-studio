@@ -58,8 +58,8 @@ Ready to experience completely offline semantic visual searching?
 
 ### 1. Download the Installer
 Head over to the [GitHub Releases](https://github.com/kolapraneeth22/iriscrawl-studio/releases/latest) page to grab the latest compiled installer payload.
-- Choose [IrisCrawl.Studio_0.1.0_x64-setup.exe](https://github.com/kolapraneeth22/iriscrawl-studio/releases/download/v0.1.0/IrisCrawl.Studio_0.1.0_x64-setup.exe) (Standard Windows Installer)
-- Or choose [IrisCrawl.Studio_0.1.0_x64_en-US.msi](https://github.com/kolapraneeth22/iriscrawl-studio/releases/download/v0.1.0/IrisCrawl.Studio_0.1.0_x64_en-US.msi) (MSI Database Installer)
+- Choose [IrisCrawl.Studio_0.1.0_x64-setup.exe](https://github.com/kolapraneeth22/iriscrawl-studio/releases/download/v0.1.0/Iris.Crawl.Studio_0.1.0_x64-setup.exe) (Standard Windows Installer)
+- Or choose [IrisCrawl.Studio_0.1.0_x64_en-US.msi](https://github.com/kolapraneeth22/iriscrawl-studio/releases/download/v0.1.0/Iris.Crawl.Studio_0.1.0_x64_en-US.msi) (MSI Database Installer)
 
 ### 2. Run the Setup
 Run the downloaded file to install IrisCrawl Studio seamlessly onto your machine. 
