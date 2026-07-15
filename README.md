@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo/IRIS_CRAWL.png" alt="IrisCrawl Studio Logo" width="250" />
+  <img src="https://github.com/user-attachments/assets/44b2ce3e-bbf6-4595-baa6-9437d2a9c4bd" alt="IrisCrawl Studio Logo" width="250" />
   <h1>IrisCrawl Studio</h1>
   <p><em>Find Your Photos: Powered by AI.</em></p>
 
