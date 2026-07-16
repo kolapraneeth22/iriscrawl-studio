@@ -68,6 +68,57 @@ Run the downloaded file to install IrisCrawl Studio seamlessly onto your machine
 When you boot IrisCrawl Studio for the first time, the initialization screen will prepare the local environment space and allocate device resources. Within 45 seconds, the primary interface will appear—completely disconnected from the internet and ready to securely index your chosen media directories.
 
 ---
+---
+
+## 📸 Interactive Application Interface Tour
+
+Explore how IrisCrawl Studio maps, processes, and unlocks your local visual data completely offline. Click on a section below to expand the interface screens.
+
+<details>
+  <summary>🗺️ 1. Onboarding & High-Speed Local Indexing (2 Screens)</summary>
+  <br />
+  <p align="center">
+    <img src="screenshots/Add Directory path.png" alt="Add Local Library" width="800" />
+    <br /><em>Mount local media folders or drives securely.</em><br /><br />
+    <img src="screenshots/Scanning Status.png" alt="Live Indexing Status" width="800" />
+    <br /><em>Monitor background ingestion metrics and throughput in real-time.</em>
+  </p>
+</details>
+
+<details>
+  <summary>🗣️ 2. Advanced Semantic Search & Parameter Calibration (2 Screens)</summary>
+  <br />
+  <p align="center">
+    <img src="screenshots/Search.png" alt="Semantic Prompt Matching" width="800" />
+    <br /><em>Query visual content using standard natural human phrases instead of filenames.</em><br /><br />
+    <img src="screenshots/Filters.png" alt="Advanced Attribute Filters" width="800" />
+    <br /><em>Instantly narrow results down by specific timelines or file paths.</em>
+  </p>
+</details>
+
+<details>
+  <summary>🗂️ 3. Localized Facial Recognition Workspace (2 Screens)</summary>
+  <br />
+  <p align="center">
+    <img src="screenshots/Faces.png" alt="Local Identity Workspace" width="800" />
+    <br /><em>Tag individual profiles and execute relational event queries safely on-disk.</em><br /><br />
+    <img src="screenshots/Merge Faces.png" alt="Bulk Profile Consolidation" width="800" />
+    <br /><em>Effortlessly merge matching facial profiles at scale.</em>
+  </p>
+</details>
+
+<details>
+  <summary>✨ 4. Storage Management & Asset Syncing (2 Screens)</summary>
+  <br />
+  <p align="center">
+    <img src="screenshots/Run Delta.png" alt="Delta Scan Updates" width="800" />
+    <br /><em>Sync newly added media quickly without re-scanning the entire catalog.</em><br /><br />
+    <img src="screenshots/Smart Cull.png" alt="Automated Space Housekeeping" width="800" />
+    <br /><em>Detect burst sequences or duplicate assets to save space.</em>
+  </p>
+</details>
+
+---
 
 ## ⚙️ Minimum System Allocations
 
