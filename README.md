@@ -134,7 +134,13 @@ Because IrisCrawl Studio runs **intensive AI processing** entirely via your syst
 | **Indexing Speed** | ~3-5 images per second | ~10-15+ images per second |
 
 ---
+## 💬 Feedback & Community
 
+Your feedback drives the roadmap for Iris Crawl Studio! 
+
+* **Have an idea or question?** Open a thread on our [GitHub Discussions Board](https://github.com/kolapraneeth22/iriscrawl-studio/discussions).
+* **Found a bug?** Submit a structured report through our [Issue Tracker](https://github.com/kolapraneeth22/iriscrawl-studio/issues/new/choose).
+---
 <div align="center">
   <p>Built with ❤️ for privacy and precision.</p>
 </div>
